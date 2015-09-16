@@ -11,7 +11,7 @@
   <project name="couchbase-cli"           />
   <project name="couchbase-examples"      />
   <project name="couchbase-python-client" revision="couchbase-181" />
-  <project name="couchdb"   revision="sherlock" remote="abhi"/>
+  <project name="couchdb"   revision="toybuild" remote="abhi"/>
   <project name="couchstore" revision="sherlock"/>
   <project name="ep-engine" revision="sherlock"/>
   <project name="geocouch"  revision="sherlock"/>
